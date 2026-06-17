@@ -68,7 +68,8 @@ This project explores real-world EV registration data to uncover trends in adopt
 
 ## 📷 Dashboard Preview
 
-![Electric Vehicle Dashboard Preview](https://private-user-images.githubusercontent.com/292953285/609157634-c74ab51a-a809-4961-b8be-879757ff4640.PNG)
+![Electric Vehicle Dashboard Preview](<img width="1850" height="732" alt="Electric Vehicle Dashboard" src="https://github.com/user-attachments/assets/ba5fdedf-7120-4324-b3e2-b9bf0fd533be" />
+)
 
 ---
 
