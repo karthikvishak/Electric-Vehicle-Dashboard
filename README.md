@@ -19,7 +19,7 @@ This Excel dashboard provides insights into Electric Vehicle (EV) adoption and t
 - Dashboard Design
 
 ## Dashboard Preview
-(<img width="1850" height="732" alt="Electric Vehicle Dashboard" src="https://github.com/user-attachments/assets/286864df-9bf5-4722-b060-3fa895597950" />)
+<img width="1850" height="732" alt="Electric Vehicle Dashboard" src="https://github.com/user-attachments/assets/286864df-9bf5-4722-b060-3fa895597950" />
 
 ## Author
 GitHub: @karthikvishak
